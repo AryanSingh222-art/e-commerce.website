@@ -1,0 +1,23 @@
+*{
+
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: blue;
+}
+.left img{
+    width: 225px;
+}
+nav{
+  color: white
+  
+}
+nav ul{
+    display: flex;
+    justify-content: center;
+}
+nav ul li{
+    
+}
